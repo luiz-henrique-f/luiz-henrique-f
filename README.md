@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo, eu sou o Luiz Henrique! 👋
 
 - 🔭 Atualmente trabalho com APEX Oracle utilizando PL/SQL
-- 🌱 Estudando React, Typescript, NextJS ...
+- 🌱 Estudando Typescript, NestJS, NextJS, Spring Boot ...
 
 <div align="center">
   <a href="https://github.com/luiz-henrique-f">
